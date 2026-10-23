@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`The-Witcher-3-Save-Manager` · Updated: 2026-10-07
+`The-Witcher-3-Save-Manager` · Updated: 2026-10-24
 
 **Tags:** `witcher-3` `save-manager` `rpg` `open-world` `cdpr`
